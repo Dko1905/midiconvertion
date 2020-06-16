@@ -1,0 +1,8 @@
+{
+  "name": "midi",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "@tonejs/midi": "^2.0.23"
+  }
+}
